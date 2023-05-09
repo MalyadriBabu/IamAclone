@@ -1,0 +1,9 @@
+pull means take some data from team and have all access to edit it
+
+means make changes to it
+
+git status
+
+git commit (TO get tracked or saved)
+
+git push -u origin main
